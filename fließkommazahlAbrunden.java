@@ -4,4 +4,4 @@ public class fließkommazahlAbrunden {
         double abrunden = Math.floor(x);
         System.out.println("Die abgerundete Zahl ist:" + abrunden);
     }
-}
+}   
